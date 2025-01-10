@@ -1,6 +1,6 @@
 # Serrato Application
 
-Serrato is a user-friendly application designed to automate and manage heater controls in greenhouses. By integrating data from sensors, it provides real-time insights into greenhouse conditions such as temperature and humidity, enabling precise control to ensure an optimal environment for plant growth.
+Serrato is an application designed to automate and manage heater controls in greenhouses. By integrating data from sensors, it provides real-time insights into greenhouse conditions such as temperature and humidity, enabling precise control to ensure an optimal environment for plant growth.
 
 ## Features
 
