@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Serrato</string>
+    <string name="title_activity_greenhouse">GreenHouseActivity</string>
+    <string name="act_greenhouse_name">GreenHouse name</string>
+    <string name="act_greenhouse_none">No greenhouse found for this id or name</string>
+    <string name="act_greenhouse_current_temperature">Current temperature</string>
+    <string name="act_greenhouse_target_temperature">Target temperature</string>
+    <string name="act_greenhouse_current_humidity">Current humidity</string>
+    <string name="act_greenhouse_target_humidity">Target humidity</string>
+
+    <string name="app_logo_description">serrato logo</string>
+    <string name="act_main_welcome">Welcome to serrato,
+ the app to manage field heaters</string>
+    <string name="act_main_open">Open</string>
+    <string name="act_main_fill_name">Fill a name</string>
+    <string name="act_greenhouse_save">Save</string>
+    <string name="app_go_back_description">Go back</string>
+    <string name="app_go_greenhouse_description">GreenHouses</string>
+    <string name="app_go_github_description">Github</string>
+    <string name="app_go_mail_description">Send email</string>
+</resources>
